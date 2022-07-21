@@ -1,7 +1,5 @@
 import React from "react";
-import {
-  Jumbotron, Container, CardColumns, Card, Button,
-} from "react-bootstrap";
+import { Jumbotron, Container, CardColumns, Card, Button, } from "react-bootstrap";
 import { useQuery, useMutation } from "@apollo/client";
 
 import Auth from "../utils/auth";
@@ -39,7 +37,6 @@ const SavedBooks = () => {
     return <h2>LOADING...</h2>;
   }
 
-  // sync localStorage with what was returned from the userData query
   const savedBookIds = userData.savedBooks.map((book) => book.bookId);
   saveBookIds(savedBookIds);
 
