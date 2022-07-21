@@ -18,7 +18,8 @@
   "dependencies": {
     "@apollo/client": "^3.6.9",
     "apollo-server-express": "^2.15.0",
-    "graphql": "^16.5.0",
-    "react-hooks": "^1.0.1"
+    "graphql": "^15.8.0",
+    "react-hooks": "^1.0.1",
+    "webpack-dev-middleware": "^5.3.3"
   }
 }
