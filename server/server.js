@@ -6,10 +6,7 @@ const db = require('./config/connection');
 const { authMiddleware } = require('./utils/auth');
 const app = express();
 const PORT = process.env.PORT || 3001;
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/book-search-engine', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-});
+
 
 const server = new ApolloServer({
   typeDefs,
