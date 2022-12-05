@@ -12,7 +12,7 @@ SO THAT I can keep a list of books to purchase
 
 ![](/dist/Screen%20Shot%202022-07-23%20at%204.14.06%20PM.png)
 
-## Heroku Deployment URL:
+## Vercel Deployment URL:
 
 https://calm-badlands-97625.herokuapp.com/
 
