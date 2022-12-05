@@ -14,7 +14,7 @@ SO THAT I can keep a list of books to purchase
 
 ## Vercel Deployment URL:
 
-https://calm-badlands-97625.herokuapp.com/
+<!-- https://calm-badlands-97625.herokuapp.com/ -->
 
 # Note On Deployment:
 
