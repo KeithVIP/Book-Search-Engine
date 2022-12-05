@@ -16,9 +16,9 @@ SO THAT I can keep a list of books to purchase
 
 https://calm-badlands-97625.herokuapp.com/
 
-#NOTE ON DEPLOYMENT
+# Note On Deployment:
 
-`id_Token persists in returning "undefined" creating issues with savedBooks page. This issue was troubleshot for days and even with the assistance of ASKBCS senior student assistance. It is my belief that legacy versions of Dependencies are creating issues within the server itself. I have even migrated to an earlier version of Node which resolved digitial envelope routine support during build and deployment.`
+`id_Token persists in returning "undefined" creating issues with savedBooks page. This issue was troubleshot for days and even with the help of ASKBCS senior student assistance. It is my belief that legacy versions of Dependencies are creating issues within the server itself. I have even migrated to an earlier version of Node which resolved digitial envelope routine support during build and deployment.`
 
 ## Technologies Utilized
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
