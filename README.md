@@ -14,7 +14,7 @@ SO THAT I can keep a list of books to purchase
 
 ## Vercel Deployment URL:
 
-book-search-engine-7jtjxbs8i-keithvip.vercel.app
+https://book-search-engine-keithvip.vercel.app/
 
 # Note On Deployment:
 
